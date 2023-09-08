@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import com.ue.bor.model.User;
 import com.ue.bor.repository.UserRepository;
 import com.ue.bor.service.UserService;
-import com.example.demo.exceptions.*;
+
 
 @Service
 public class UserServiceImpl implements UserService {
